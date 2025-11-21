@@ -59,3 +59,8 @@ cmake-build-debug/
 *.lzma
 *.dat
 *.manifest
+dungeon.otbm
+Untitled-1-house.xml
+Untitled-1-monster.xml
+Untitled-1-npc.xml
+Untitled-1-zones.xml
